@@ -1,0 +1,7 @@
+cpp/dungeon-explorer.explorer
+cpp/Dungeon.o
+cpp/Game.o
+cpp/main.o
+cpp/Monster.o
+cpp/Room.o
+web
